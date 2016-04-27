@@ -17,9 +17,11 @@ include the js file.
 
 ### Change log
 0.1.0
-Implement rotation effect!
 
+Implement rotation effect!
+-----
 0.2.0
+
 Rebuild
 
 ### License
